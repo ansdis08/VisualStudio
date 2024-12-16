@@ -1,0 +1,10 @@
+C:\Users\janau\source\repos\3110\3110\bin\Debug\3110.exe.config
+C:\Users\janau\source\repos\3110\3110\bin\Debug\3110.exe
+C:\Users\janau\source\repos\3110\3110\bin\Debug\3110.pdb
+C:\Users\janau\source\repos\3110\3110\obj\Debug\3110.csproj.AssemblyReference.cache
+C:\Users\janau\source\repos\3110\3110\obj\Debug\_3110.Form1.resources
+C:\Users\janau\source\repos\3110\3110\obj\Debug\_3110.Properties.Resources.resources
+C:\Users\janau\source\repos\3110\3110\obj\Debug\3110.csproj.GenerateResource.cache
+C:\Users\janau\source\repos\3110\3110\obj\Debug\3110.csproj.CoreCompileInputs.cache
+C:\Users\janau\source\repos\3110\3110\obj\Debug\3110.exe
+C:\Users\janau\source\repos\3110\3110\obj\Debug\3110.pdb
