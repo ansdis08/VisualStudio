@@ -1,0 +1,10 @@
+C:\Users\janau\source\repos\0509_funkcija\0509_funkcija\bin\Debug\0509_funkcija.exe.config
+C:\Users\janau\source\repos\0509_funkcija\0509_funkcija\bin\Debug\0509_funkcija.exe
+C:\Users\janau\source\repos\0509_funkcija\0509_funkcija\bin\Debug\0509_funkcija.pdb
+C:\Users\janau\source\repos\0509_funkcija\0509_funkcija\obj\Debug\0509_funkcija.csproj.AssemblyReference.cache
+C:\Users\janau\source\repos\0509_funkcija\0509_funkcija\obj\Debug\_0509_funkcija.Form1.resources
+C:\Users\janau\source\repos\0509_funkcija\0509_funkcija\obj\Debug\_0509_funkcija.Properties.Resources.resources
+C:\Users\janau\source\repos\0509_funkcija\0509_funkcija\obj\Debug\0509_funkcija.csproj.GenerateResource.cache
+C:\Users\janau\source\repos\0509_funkcija\0509_funkcija\obj\Debug\0509_funkcija.csproj.CoreCompileInputs.cache
+C:\Users\janau\source\repos\0509_funkcija\0509_funkcija\obj\Debug\0509_funkcija.exe
+C:\Users\janau\source\repos\0509_funkcija\0509_funkcija\obj\Debug\0509_funkcija.pdb
