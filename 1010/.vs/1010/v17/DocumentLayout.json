@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\janau\\source\\repos\\1010\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36772C4B-604D-45AA-9311-520E5EB60916}|1010\\1010.csproj|C:\\Users\\janau\\source\\repos\\1010\\1010\\vector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36772C4B-604D-45AA-9311-520E5EB60916}|1010\\1010.csproj|solutionrelative:1010\\vector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36772C4B-604D-45AA-9311-520E5EB60916}|1010\\1010.csproj|c:\\users\\janau\\source\\repos\\1010\\1010\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36772C4B-604D-45AA-9311-520E5EB60916}|1010\\1010.csproj|solutionrelative:1010\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36772C4B-604D-45AA-9311-520E5EB60916}|1010\\1010.csproj|C:\\Users\\janau\\source\\repos\\1010\\1010\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36772C4B-604D-45AA-9311-520E5EB60916}|1010\\1010.csproj|solutionrelative:1010\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vector.cs",
+              "DocumentMoniker": "C:\\Users\\janau\\source\\repos\\1010\\1010\\Vector.cs",
+              "RelativeDocumentMoniker": "1010\\Vector.cs",
+              "ToolTip": "C:\\Users\\janau\\source\\repos\\1010\\1010\\Vector.cs",
+              "RelativeToolTip": "1010\\Vector.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:20:13.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\janau\\source\\repos\\1010\\1010\\Form1.cs",
+              "RelativeDocumentMoniker": "1010\\Form1.cs",
+              "ToolTip": "C:\\Users\\janau\\source\\repos\\1010\\1010\\Form1.cs",
+              "RelativeToolTip": "1010\\Form1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:19:09.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\janau\\source\\repos\\1010\\1010\\Form1.cs",
+              "RelativeDocumentMoniker": "1010\\Form1.cs",
+              "ToolTip": "C:\\Users\\janau\\source\\repos\\1010\\1010\\Form1.cs [Design]",
+              "RelativeToolTip": "1010\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T08:46:08.737Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
