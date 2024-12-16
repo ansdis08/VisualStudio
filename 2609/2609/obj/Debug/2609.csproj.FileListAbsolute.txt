@@ -1,0 +1,10 @@
+C:\Users\janau\source\repos\2609\2609\bin\Debug\2609.exe.config
+C:\Users\janau\source\repos\2609\2609\bin\Debug\2609.exe
+C:\Users\janau\source\repos\2609\2609\bin\Debug\2609.pdb
+C:\Users\janau\source\repos\2609\2609\obj\Debug\2609.csproj.AssemblyReference.cache
+C:\Users\janau\source\repos\2609\2609\obj\Debug\_2609.Form1.resources
+C:\Users\janau\source\repos\2609\2609\obj\Debug\_2609.Properties.Resources.resources
+C:\Users\janau\source\repos\2609\2609\obj\Debug\2609.csproj.GenerateResource.cache
+C:\Users\janau\source\repos\2609\2609\obj\Debug\2609.csproj.CoreCompileInputs.cache
+C:\Users\janau\source\repos\2609\2609\obj\Debug\2609.exe
+C:\Users\janau\source\repos\2609\2609\obj\Debug\2609.pdb
