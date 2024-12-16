@@ -1,0 +1,10 @@
+C:\Users\janau\source\repos\711\711\bin\Debug\711.exe.config
+C:\Users\janau\source\repos\711\711\bin\Debug\711.exe
+C:\Users\janau\source\repos\711\711\bin\Debug\711.pdb
+C:\Users\janau\source\repos\711\711\obj\Debug\711.csproj.AssemblyReference.cache
+C:\Users\janau\source\repos\711\711\obj\Debug\_711.Form1.resources
+C:\Users\janau\source\repos\711\711\obj\Debug\_711.Properties.Resources.resources
+C:\Users\janau\source\repos\711\711\obj\Debug\711.csproj.GenerateResource.cache
+C:\Users\janau\source\repos\711\711\obj\Debug\711.csproj.CoreCompileInputs.cache
+C:\Users\janau\source\repos\711\711\obj\Debug\711.exe
+C:\Users\janau\source\repos\711\711\obj\Debug\711.pdb
